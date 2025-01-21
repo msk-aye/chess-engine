@@ -4,6 +4,7 @@ Trying to make a simple working chess engine that is able to beat me and my frie
 
 I will be trying to take as little external input as possible, includign reading on how chess engines work, how they prune branches etc. This will surely result in a very inefficient and possibly broken engine, but I hope that I can make something at least good enough to beat me and my friend.
 
-game_environment.py - An instance of a chess game, with peices and possible moves
-game_state.py - Unsure if this is really needed but will keep for now
-engine.py - Where the magic happens (hopefully)
+game_environment.py - An instance of a chess game, with peices and possible moves.
+game_state.py - Unsure if this is really needed but will keep for now.
+engine_naive.py - Where the magic happens (hopefully).
+engine_proper.py - When I inevitably get help online and completely rehaul my engine.
